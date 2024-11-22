@@ -1,4 +1,4 @@
-### Coffee Shop Sales Dashboard
+# Coffee Shop Sales Dashboard
 
 **Project Overview**
 This project is a detailed dashboard that provides insights into the sales performance of a coffee shop. It includes various metrics and visualizations to help understand sales trends, product popularity, and customer behavior.
